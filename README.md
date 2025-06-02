@@ -19,16 +19,19 @@ This project brings together popular 1D, 2D, and 3D chaotic maps with example sc
 
 ## 🗂️ Project Structure
 
+```
 ChaoticMapZoo/
-├── python_version/ # Python implementations
-│ ├── maps/ # Individual chaotic map modules
-│ ├── examples/ # Image encryption & plotting demos
-│ └── docs/ # Markdown docs and notes
-├── matlab_version/ # MATLAB implementations
-│ ├── maps/ # Equivalent chaotic map functions
-│ ├── examples/ # MATLAB usage scripts
-│ └── docs/ # Live scripts or notes
-├── images/ # Generated diagrams or encrypted images
+├── python_version/         # Python implementations
+│   ├── maps/               # Individual chaotic map modules
+│   ├── examples/           # Image encryption & plotting demos
+│   └── docs/               # Markdown docs and notes
+├── matlab_version/         # MATLAB implementations
+│   ├── maps/               # Equivalent chaotic map functions
+│   ├── examples/           # MATLAB usage scripts
+│   └── docs/               # Live scripts or notes
+├── images/                 # Generated diagrams or encrypted images
 ├── README.md
 ├── LICENSE
 └── requirements.txt
+```
+
